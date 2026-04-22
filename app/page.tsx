@@ -124,7 +124,7 @@ export default function LandingPage() {
         <div className="relative max-w-4xl mx-auto text-center">
           <div className="inline-flex items-center gap-2 bg-orange-50 border border-orange-200 text-orange-700 text-sm px-4 py-1.5 rounded-full mb-8 animate-fade-in">
             <Sparkles className="w-3.5 h-3.5" />
-            <span>AI powered · 2024年最新</span>
+            <span>AI powered · 2026年最新</span>
           </div>
 
           <h1
@@ -314,7 +314,7 @@ export default function LandingPage() {
             <CardContent className="pt-8 pb-8">
               <div className="mb-6">
                 <span className="text-5xl font-bold" style={{ fontFamily: "var(--font-display)" }}>
-                  ¥2,980
+                  ¥100
                 </span>
                 <span className="text-muted-foreground text-sm ml-2">/ 月（税込）</span>
               </div>
@@ -361,7 +361,7 @@ export default function LandingPage() {
             レビュー対応から解放されましょう
           </h2>
           <p className="text-orange-100 mb-8 text-lg">
-            先行登録者には初月50%割引（¥1,490）でご提供します。
+            先行登録者には初月50%割引（¥50）でご提供します。
           </p>
 
           <form onSubmit={handleSubmit} className="flex gap-2 max-w-md mx-auto">
@@ -395,7 +395,7 @@ export default function LandingPage() {
           Reply<span className="text-orange-500">AI</span>
         </p>
         <p className="text-xs text-muted-foreground">
-          © 2024 ReplyAI. All rights reserved.
+          © 2026 ReplyAI. All rights reserved.
         </p>
       </footer>
     </div>
